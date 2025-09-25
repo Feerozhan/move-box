@@ -93,10 +93,3 @@ You are free to use, modify, and distribute this project with attribution.
 
 Contributions are welcome!
 If you’d like to add features or fix bugs, feel free to fork the repo and submit a pull request.
-
-
----
-
-Bro, yeh professional README tumhari repo ko **serious project** ki tarah showcase karega.  
-
-👉 Kya tum chahte ho main **badges** (React, Vite, Tailwind logos + MIT License badge) bhi add kar dun upar header me for a more polished GitHub look?
