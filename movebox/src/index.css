@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+:root {
+--glass-bg: rgba(255,255,255,0.06);
+}
+
+
+/* small glassmorphism helper */
+.glass {
+background: linear-gradient(135deg, rgba(255,255,255,0.03), rgba(255,255,255,0.02));
+backdrop-filter: blur(8px) saturate(120%);
+}
+
+
+/* app-level body background for light/dark */
+html,body,#root { height: 100%; }
+body {
+@apply bg-gray-50 dark:bg-gray-900 text-gray-800 dark:text-gray-100;
+}
+
+
+/* placeholder poster style */
+.poster-placeholder {
+@apply bg-gray-200 dark:bg-gray-800 w-full h-48 rounded-md flex items-center justify-center text-gray-500;
+}
