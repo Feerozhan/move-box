@@ -4,6 +4,7 @@ MoveBox is a modern movie discovery and watchlist application built with **React
 The app provides an intuitive interface to browse movies, explore categories, and manage a personalized watchlist.
 
 ---
+## LIVE DEMO : https://68d4c6fbfafbe75e8c9695ae--sage-babka-629f35.netlify.app/
 
 ## ✨ Features
 - 🎥 Browse and explore movies  
